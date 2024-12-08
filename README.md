@@ -64,20 +64,10 @@ A dynamic and feature-rich mobile application designed to simplify food ordering
 ---
 
 ## **Screenshots**
-
-### **Splash Screen**
-![Splash Screen](https://drive.google.com/file/d/1_3u2iphyYrFxr1LAp_E7KzqmHwh7F5UF/view?usp=sharing)
-
-### **Role Selection Page**
-*Add image here*
-
-### **Admin Page**
-*Add image here*
-
-### **user page**
-*Add image here*
-
-[![Watch the Demo Video]("https://drive.google.com/file/d/1o6zcO75l-sxzvn-21nhZy8XQZMKJou3g/view?usp=sharing")
+ [https://drive.google.com/drive/folders/1srlgFsQi3IsYrPEpmrRBlpxywljHa_VA?usp=sharing]
+ 
+Application demonstration Vedio
+[https://drive.google.com/file/d/1o6zcO75l-sxzvn-21nhZy8XQZMKJou3g/view?usp=sharing]
 
 
 ---
