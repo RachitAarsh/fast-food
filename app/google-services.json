@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "345651683732",
+    "project_id": "fastfod-d2ccb",
+    "storage_bucket": "fastfod-d2ccb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345651683732:android:88ccda7ffd30c9ffc46f81",
+        "android_client_info": {
+          "package_name": "com.example.fastfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345651683732-sn6h8vat187flm6qh19prnu8t38r5f73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fastfood",
+            "certificate_hash": "105beee47af3da7d1426da50e7de95a256e53b3d"
+          }
+        },
+        {
+          "client_id": "345651683732-d152oue1ddn94l32ngb51s4vsgqm8kbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlfP4bZp_q6odAo0BHEBuCJAeI0ta26VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345651683732-d152oue1ddn94l32ngb51s4vsgqm8kbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
